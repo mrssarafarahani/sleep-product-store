@@ -5,7 +5,7 @@
          images: "/assets/pic/austin.jpg"
      }, {
          id: 2,
-         name: "beatrice.jpg",
+         name: "beatrice",
          price: "20.5",
          images: "/assets/pic/beatrice.jpg"
      },
